@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Curriculum Vitae - built using Jekyll Resume Template"
+description: "A basic CV built with Jekyll and GitHub Pages."
 
 # Build settings
 markdown: kramdown
@@ -10,19 +10,19 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:           "homerjsimpson@youremailaddress.com"
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_name:                    "Grace Snow"
+resume_title:                   "UX and UI Designer"
+resume_contact_email:           "graceaesnow@gmail.com"
+resume_contact_telephone:       "0797 135 4855"
+resume_contact_address:         "Liverpool, UK"
+resume_header_contact_info: "Liverpool, UK | 0797 135 4855 | graceaesnow@gmail.com"
+resume_header_intro: "<p>Officially, I use my extensive experience in journalism, copyediting, web design and front end development to design stress-free, intutive app interfaces for web users&hellip; In more 'human' terms, <strong>I like to design web stuff that solves people's problems an is a pleasure to use!</strong></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "yes"
+resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
@@ -32,19 +32,19 @@ resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
 resume_section_links:           true
-resume_section_associations:    true
+resume_section_associations:    false
 # resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  resume_github_url:            "https://github.com/grace-snow"
+  resume_twitter_url:           "https://twitter.com/gracesnow"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  resume_linkedin_url:          "https://www.linkedin.com/in/gracesnow/"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "http://gracesnowdesign.co.uk/"
 resume_print_social_links:      true
 
 # Design settings
