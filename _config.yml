@@ -16,13 +16,13 @@ resume_contact_email:           "graceaesnow@gmail.com"
 resume_contact_telephone:       "0797 135 4855"
 resume_contact_address:         "Liverpool, UK"
 resume_header_contact_info: "Liverpool, UK | 0797 135 4855 | graceaesnow@gmail.com"
-resume_header_intro: "<p>Officially, I use my extensive experience in journalism, copyediting, web design and front end development to design stress-free, intutive app interfaces for web users&hellip; In more 'human' terms, <strong>I like to design web stuff that solves people's problems an is a pleasure to use!</strong></p>"
+resume_header_intro: "<p>Officially, I like to use my extensive experience in journalism, copyediting, web design and front end development to design stress-free, intutive app interfaces for web users.</p><p><strong>In more 'human' terms, I like to design web stuff that solves people's problems and is a pleasure to use!</strong></p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-resume_looking_for_work:        "no"
+# resume_looking_for_work:        "no"
 
 # Decide which sections to use
 # comment out to hide
